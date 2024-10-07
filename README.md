@@ -1,5 +1,5 @@
 # Classification of Book Genres Based on Their Summaries  
-Book genre classification based on its summary completed as part of the course Artificial Intelligence and Knowledge Engineering  
+Book genre classification system created as part of the Artificial Intelligence and Knowledge Engineering course
 -  
 Data was obtained from the [CMU Book Summary Dataset](https://www.cs.cmu.edu/~dbamman/booksummaries.html).  
 
