@@ -1,5 +1,5 @@
 # Classification of Book Genres Based on Their Summaries  
-Recognizing the genre of a book based on its summary was completed as part of the course Artificial Intelligence and Knowledge Engineering  
+Recognizing the genre of a book based on its summary completed as part of the course Artificial Intelligence and Knowledge Engineering  
 -  
 Data was obtained from the [CMU Book Summary Dataset](https://www.cs.cmu.edu/~dbamman/booksummaries.html).  
 
